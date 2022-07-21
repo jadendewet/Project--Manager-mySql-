@@ -1,5 +1,0 @@
-Hi there
-Please note that the updates do occur, to check it, please read the data again ( option 1 ) to see the changes
-When creating the database please note I changed the datatype value of FINALISED to int(1)
-I added my SQL statement to create the project table but I used the terminal to create the rest,sorry for the inconvience
-The data added to the project table does not have a project that is overdue, to test this function please change the date in the update or finalise section
