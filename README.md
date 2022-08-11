@@ -16,5 +16,5 @@ This project is a base version of what the final system will be able to do. In t
 * mySQL 8.0.30
 
 ## Setup
-Please run the projects scripts in the sql folder for this program to work
+Please run the projects scripts in the sql folder for this program to work.
 This project require no additional setup, simple open the POISED file in your IDE of choice.
