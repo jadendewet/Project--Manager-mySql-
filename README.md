@@ -6,7 +6,7 @@
 
 ## Introduction
 POISED is a project management system which utilises project objects from a class to add, find or finalise projects.
-This is an extention of my previous project manager, however it uses a database as the data structure/
+This is an extention of my previous project manager, however it uses a database as the data structure
 
 ## General Information 
 This project is a base version of what the final system will be able to do. In this program, the user will be asked for input to create an intial project object from which they will have the ability to make changes using a menu.
